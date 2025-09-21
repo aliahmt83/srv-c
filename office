@@ -3,7 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZmZpY2VAbG9jYWxob3N0OjU1NTY2#1404/07/12 12:
 vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@cdn2.myandroidplus2.ir:8087?path=/&encryption=none&type=grpc#🇳🇱 
 vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@sdk2.myandroidplus2.ir:8080?mode=auto&path=/&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=xhttp&sni=sdk2.myandroidplus2.ir#Tunnel2 
 vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@sdk2.myandroidplus2.ir:8082?path=/&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=grpc&sni=sdk2.myandroidplus2.ir#Tunnel2 
-vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@cdn2.myandroidplus2.ir:80?path=/&encryption=none&type=xhttp#🇺🇸 
+vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@cdn2.myandroidplus2.ir:80?path=/&encryption=none&type=xhttp#🇺🇸** 
 vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Tunnel** 
 vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://de12b203-fe1c-164a-7a35-ffd3d900d4ff@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
